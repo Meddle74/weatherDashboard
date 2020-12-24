@@ -22,7 +22,7 @@ A weather dashboard that will return current conditions and forecast data.
 
 ## Link to deployed application 
 
-[Weather Dashboard](https://meddle74.github.io/bikeTrailAdvisor/)
+[Weather Dashboard](https://meddle74.github.io/weatherDashboard/)
 
 ## License
 
